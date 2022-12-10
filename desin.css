@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(55, 48, 62) !important;
+}
+
+h1 {
+  color: darkturquoise;
+  transition: all 1s;
+}
+
+.fa-solid {
+  color: rgb(128, 0, 255);
+  font-size: 30px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.s {
+  display: flex !important;
+  justify-content: center;
+  margin-top: 30px !important;
+}
+
+h1:hover {
+    color: rgb(225, 134, 22);
+  }  
